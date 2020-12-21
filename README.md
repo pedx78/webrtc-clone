@@ -1,4 +1,4 @@
-# WebRTC Chat - A clone of the amazing work from ian Ramzy - Decentralized Video Chat
+# WebRTC Chat 
 
 Decentralized video chat platform powered by WebRTC using Twilio STUN/TURN infrastructure.
 Zipcall provides video quality and latency simply not available with traditional
@@ -17,13 +17,6 @@ technology.
 
 ## Quick start
 
-- You will need to have Node.js installed, this project has been tested with Node version 10.X and 12.X
-- Clone this repo
-
-```
-git clone https://github.com/thedamian/WebRTC-Chat.git
-cd WebRTC-Chat
-```
 
 #### Set up credentials
 
